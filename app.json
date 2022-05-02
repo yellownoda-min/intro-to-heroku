@@ -4,9 +4,8 @@
   "keywords": [
     "app-cloud"
   ],
-  "repository": "https://github.com/YOUR_USERNAME/intro-to-heroku",
+  "repository": "https://github.com/yellownoda-mh/intro-to-heroku",
   "addons": [
     "heroku-postgresql"
   ]
-  Added GitHub Repo URL
 }
